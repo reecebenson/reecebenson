@@ -1,7 +1,12 @@
-<h1>👨Reece Benson</h1>
+<h1>👋 Hi, I'm Reece</h1>
 
-<p>Welcome to my page! I'm Reece, a fullstack software engineer from <b>Bristol, UK</b>.</p>
-<h3>👨‍💻 Things I code with</h3>
+<p>I am a self-taught, full-stack software engineer based in <b>Bristol, UK</b> with over 8 years of experience.</p>
+
+<p>
+✨️ Find our more about me on <a href="https://reece.biz/">my website.</a><br />
+</p>
+
+<h3>💻 Things I code with</h3>
 <p>
   <ul>
     <li>
@@ -43,7 +48,7 @@
     </li>
   </ul>
 </p>
-<h3>📋 Projects</h3>
+<h2>📋 Projects</h2>
 <p>
   <ul>
     <li><a href="https://github.com/EssentialSRV">Essential</a></li>
@@ -51,8 +56,7 @@
     <li><a href="https://github.com/UselessCrypto">Useless</a></li>
   </ul>
 </p>
-<hr />
-<h3>🔗 Socials</h3>
+<h2>🔗 Socials</h2>
 <p>
   <a href="https://github.com/reecebenson" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
