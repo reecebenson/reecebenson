@@ -51,9 +51,12 @@
 <h2>📋 Projects</h2>
 <p>
   <ul>
-    <li><a href="https://github.com/EssentialSRV">Essential</a></li>
-    <li><a href="https://github.com/CrewNode">CrewNode</a></li>
-    <li><a href="https://github.com/UselessCrypto">Useless</a></li>
+    <li><a href="https://github.com/EssentialSRV">Essential</a> (<a href="https://essentialsrv.com/">website</a>)</li>
+    <li><a href="https://github.com/CrewNode">CrewNode</a> (<a href="https://crewnode.net/">website</a>)</li>
+    <li><a href="https://github.com/UselessCrypto">Useless</a> (<a href="https://uselesscrypto.com/">website</a>)</li>
+    <li><a href="https://github.com/PlatesNetwork">PlatesNetwork</a> (<a href="https://plates.network/">website</a>)</li>
+    <li><a href="https://github.com/AuthMyApp">AuthMyApp</a> (<a href="https://authmy.app/">website</a>)</li>
+    <li><a href="https://github.com/PrivMsgMe">PrivMsg</a> (<a href="https://privmsg.me/">website</a>)</li>
   </ul>
 </p>
 <h2>🔗 Socials</h2>
