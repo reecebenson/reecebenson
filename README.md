@@ -47,6 +47,14 @@
       <img alt="Chrome" src="https://img.shields.io/badge/-Chrome-1a73e8?style=flat&logo=google-chrome&logoColor=white" />
     </li>
     <li>
+      Pipelines <br />
+      <img alt="GitLab CI" src="https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+      <img alt="BitBucket CI" src="https://img.shields.io/badge/-BitBucket%20CI-0052CC?style=flat&logo=bitbucket&logoColor=white" />
+      <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white" />
+      <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+      <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+    </li>
+    <li>
       AWS <br/>
       <img alt="AWS" src="https://img.shields.io/badge/-S3-64A639?style=flat&logo=amazons3&logoColor=white" />
       <img alt="AWS" src="https://img.shields.io/badge/-Lambda-F78F04?style=flat&logo=awslambda&logoColor=white" />
