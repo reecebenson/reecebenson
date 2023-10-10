@@ -3,7 +3,7 @@
 <p>I am a self-taught, full-stack software engineer based in <b>Bristol, UK</b> with over 8 years of experience.</p>
 
 <p>
-✨️ Find our more about me on <a href="https://reece.biz/">my website.</a><br />
+✨️ Find out more about me on <a href="https://reece.biz/">my website.</a><br />
 </p>
 
 <h3>💻 Things I code with</h3>
@@ -45,6 +45,27 @@
       <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-F0DB4F?style=flat&logo=webstorm&logoColor=white" />
       <img alt="Firefox" src="https://img.shields.io/badge/-Firefox-E66000?style=flat&logo=firefox&logoColor=white" />
       <img alt="Chrome" src="https://img.shields.io/badge/-Chrome-1a73e8?style=flat&logo=google-chrome&logoColor=white" />
+    </li>
+    <li>
+      AWS <br/>
+      <img alt="AWS" src="https://img.shields.io/badge/-S3-64A639?style=flat&logo=amazons3&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-Lambda-F78F04?style=flat&logo=awslambda&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-ECR-F78F04?style=flat&logo=elastic&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-RDS-F78F04?style=flat&logo=amazonrds&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-Step%20Functions-F34582?style=flat&logo=amazon&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-CloudFormation-F34582?style=flat&logo=amazon&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-CloudWatch-F34582?style=flat&logo=amazoncloudwatch&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-SNS-F34582?style=flat&logo=amazon&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-SSM-F34582?style=flat&logo=amazon&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-SQS-F34582?style=flat&logo=amazonsqs&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-CodeBuild-4C70F1?style=flat&logo=amazon&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-DynamoDB-4C70F1?style=flat&logo=amazondynamodb&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-API%20Gateway-975FF5?style=flat&logo=amazon&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-Route%2053-975FF5?style=flat&logo=amazonroute53&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-CloudFront-975FF5?style=flat&logo=amazon&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-VPC-975FF5?style=flat&logo=amazon&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-IAM-F54749?style=flat&logo=amazon&logoColor=white" />
+      <img alt="AWS" src="https://img.shields.io/badge/-Cognito-F54749?style=flat&logo=amazon&logoColor=white" />
     </li>
   </ul>
 </p>
