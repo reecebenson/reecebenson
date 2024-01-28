@@ -77,6 +77,13 @@
     </li>
   </ul>
 </p>
+<h2>🏠 Companies</h2>
+<p>
+  <ul>
+    <li><a href="https://github.com/wearebrnd">brnd.</a> (<a href="https://brnd.digital/">website</a>)</li>
+    <li><a href="https://github.com/blinkdistro">blink.</a> (<a href="https://blinkdistro.com/">website</a>)</li>
+  </ul>
+</p>
 <h2>📋 Projects</h2>
 <p>
   <ul>
