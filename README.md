@@ -80,8 +80,8 @@
 <h2>🏠 Companies</h2>
 <p>
   <ul>
-    <li><a href="https://github.com/pokioltd">Pokio Ltd.</a> (<a href="https://pok.io/">website</a>)</li>
-    <li><a href="https://github.com/blinkdistro">blink.</a> (<a href="https://blinkdistro.com/">website</a>)</li>
+    <li><a href="https://github.com/pokioltd">Pokio</a> (<a href="https://pok.io/">website</a>)</li>
+    <li><a href="https://github.com/blinkdistro">Blink</a> (<a href="https://blinkdistro.com/">website</a>)</li>
   </ul>
 </p>
 <h2>📋 Projects</h2>
