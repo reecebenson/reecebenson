@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Reece</h1>
 
-<p>I am a self-taught, full-stack software engineer based in <b>Bristol, UK</b> with over 8 years of experience.</p>
+<p>I am a self-taught, full-stack software engineer based in <b>Bristol, UK</b> with over 15 years of experience.</p>
 
 <p>
 ✨️ Find out more about me on <a href="https://reece.biz/">my website.</a><br />
